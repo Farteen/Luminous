@@ -1,5 +1,5 @@
 let package = Package(
-	name: "Socket",
-	targets: [Target(name: "Socket")],
+	name: "Luminous",
+	targets: [Target(name: "Luminous")],
 	exclude: ["Example/*", "README.md", "LICENSE", "Luminous.podspec"]
 )
