@@ -1,3 +1,5 @@
+import PackageDescription
+
 let package = Package(
 	name: "Luminous",
 	targets: [Target(name: "Luminous")],
